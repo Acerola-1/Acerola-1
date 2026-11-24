@@ -2,8 +2,6 @@
 
 - [hagimi-monitor](https://github.com/Acerola-1/hagimi-monitor)：菜单栏里一眼看完 CPU、内存和网络，不占地方
 
-![提交热力图](assets/contributions.svg)
-
 ## 联系
 
 - 邮箱：jialiang.mo@outlook.com
